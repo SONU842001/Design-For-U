@@ -232,7 +232,7 @@
 		</div>
     
 	</div>
-	<h1 class="credit">created by <span>Vishal(lead),Uddeshya,Sonu and Stanzin </span> | all rights reserved</h1>
+	<h1 class="credit">created by <span>kumar sonu </span> | all rights reserved</h1>
 </section>
 <!--footer section ends-->
 	<!--jquery file link -->
